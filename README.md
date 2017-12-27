@@ -1,2 +1,4 @@
-# docker-directadmin
-Docker image for DirectAdmin webhosting panel
+# Directadmin For Docker
+
+
+DirectAdmin webhosting panel
